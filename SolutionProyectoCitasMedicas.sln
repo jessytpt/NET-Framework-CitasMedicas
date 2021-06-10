@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRESENTACION", "WindowsFormsAppCliente\PRESENTACION.csproj", "{EAD19925-F38E-4961-8431-EC548A4BA90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A6E1C418-F916-4D06-8A68-946D1602B5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEGOCIO", "NEGOCIO\NEGOCIO.csproj", "{CFAEADF5-114B-4701-987C-8FB0CE30C714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mensajeria_Clases", "Mensajeria_Clases\Mensajeria_Clases.csproj", "{6835EA0C-9CD1-4C12-9C59-E22DD0798837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{758485EE-4A02-4C11-9090-18480617AB7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD19925-F38E-4961-8431-EC548A4BA90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD19925-F38E-4961-8431-EC548A4BA90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD19925-F38E-4961-8431-EC548A4BA90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD19925-F38E-4961-8431-EC548A4BA90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E1C418-F916-4D06-8A68-946D1602B5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E1C418-F916-4D06-8A68-946D1602B5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E1C418-F916-4D06-8A68-946D1602B5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E1C418-F916-4D06-8A68-946D1602B5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAEADF5-114B-4701-987C-8FB0CE30C714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAEADF5-114B-4701-987C-8FB0CE30C714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAEADF5-114B-4701-987C-8FB0CE30C714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAEADF5-114B-4701-987C-8FB0CE30C714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6835EA0C-9CD1-4C12-9C59-E22DD0798837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6835EA0C-9CD1-4C12-9C59-E22DD0798837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6835EA0C-9CD1-4C12-9C59-E22DD0798837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6835EA0C-9CD1-4C12-9C59-E22DD0798837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758485EE-4A02-4C11-9090-18480617AB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758485EE-4A02-4C11-9090-18480617AB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758485EE-4A02-4C11-9090-18480617AB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758485EE-4A02-4C11-9090-18480617AB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://toapantajessenia1595.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DAL\\DAL.csproj
+		SccProjectName1 = DAL
+		SccLocalPath1 = DAL
+		SccProjectUniqueName2 = NEGOCIO\\NEGOCIO.csproj
+		SccProjectName2 = NEGOCIO
+		SccLocalPath2 = NEGOCIO
+		SccProjectUniqueName3 = Mensajeria_Clases\\Mensajeria_Clases.csproj
+		SccProjectName3 = Mensajeria_Clases
+		SccLocalPath3 = Mensajeria_Clases
+		SccProjectUniqueName4 = WindowsFormsAppCliente\\PRESENTACION.csproj
+		SccProjectName4 = WindowsFormsAppCliente
+		SccLocalPath4 = WindowsFormsAppCliente
+		SccProjectUniqueName5 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectName5 = UnitTestProject1
+		SccLocalPath5 = UnitTestProject1
+	EndGlobalSection
+EndGlobal
